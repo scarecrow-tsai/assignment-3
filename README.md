@@ -26,8 +26,7 @@ Both the image and random number are passed through the network to generate an l
 
 ## Results Evaluation
 
-The results are evaluated using the `classification_report`, `accuracy_score`, and `confusion_matrix` functions from sklearn. Classification report gives the precision, recall, and F1-score for each class. The average F1 score is 28%. The accuracy is 26%. Confusion matrix shows the following classes are best classified: 2, 4, 5, 7, 12, and 13.
-
+The results are evaluated using the `classification_report`, `accuracy_score`, and `confusion_matrix` functions from sklearn. Classification report gives the precision, recall, and F1-score for each class. The average F1 score is 50%. The accuracy is 51%.
 
 ## Loss Function
 
